@@ -4,3 +4,7 @@
 疫情期间在家上课的时候做的，现在传到github上吧。
 
 可以非常方便地实现高性能计算课程第一次试验所需的HPL和HPCC软件包的安装。
+
+使用说明：https://blog.csdn.net/duchenhe/article/details/104853404
+
+原理解释：https://blog.csdn.net/duchenhe/article/details/104861020
